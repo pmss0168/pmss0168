@@ -1,4 +1,9 @@
 <!-- peemech -->
+
+<div align="center">
+  <img width="500" src="https://i0.wp.com/37.media.tumblr.com/a2a595327372fbdc050054191e322f64/tumblr_n6sosh5kU01r1r78ao1_r1_1280.gif?resize=541%2C379">
+</div>
+
 <h1 align="center">Hi 👋, I'm peemech</h1>
 <h3 align="center">A passionate software engineer developer from VIETNAM</h3>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
