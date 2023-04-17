@@ -11,6 +11,8 @@
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/C++-282C34?logo=cplusplus&logoColor=#00599C" alt="C++ logo" title="C++" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=F05032" alt="Java logo" title="Java" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
@@ -37,20 +39,23 @@
 
 
 <br>
-<h2 align="center">👽 Where to find me 👽</h2>
+<h2 align="center">📲 Where to find me 📲</h2>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://www.facebook.com/pmss0168/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="peemech-facebook" />
+    <img width="100" src="https://img.icons8.com/nolan/256/facebook.png" alt="peemech-facebook" />
   </a>
   <a href="https://www.youtube.com/channel/UCmMGZyNSto7zoFzQtsQU9gg" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="peemech-youtube" />
+    <img width="100" src="https://img.icons8.com/nolan/256/youtube-play.png" alt="peemech-youtube" />
   </a>
   <a href="https://www.instagram.com/pmss0168/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="peemech-instagram" />
+    <img width="100" src="https://img.icons8.com/nolan/256/instagram-new.png" alt="peemech-instagram" />
+  </a>
+  <a href="https://discord.gg/ANj8bunzsr" target="blank">
+    <img width="100" src="https://img.icons8.com/nolan/256/discord-logo.png" alt="peemech-discord" />
   </a>
   <a href="mailto:pmss0168@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="peemech-email" />
+    <img width="100" src="https://img.icons8.com/nolan/256/new-post.png" alt="peemech-email" />
   </a>
 </div>
