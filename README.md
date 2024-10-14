@@ -9,17 +9,25 @@
   <h2 align="center">🛠 Technologies and Tools 🛠</h2>
   <br>
   <!-- https://simpleicons.org/ -->
-  <span><img src="https://img.shields.io/badge/C++-282C34?logo=cplusplus&logoColor=#00599C" alt="C++ logo" title="C++" height="25" /></span>
+  <span><img src="https://img.shields.io/badge/SpringBoot-282C34?logo=springboot&logoColor=#00599C" alt="SpringBoot logo" title="SpringBoot" height="25" /></span>
   &nbsp;
   <span><img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=F05032" alt="Java logo" title="Java" height="25" /></span>
+  &nbsp;
+  <span><img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=F05032" alt="React logo" title="React" height="25" /></span>
+  &nbsp;
+  <span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=F05032" alt="Redux logo" title="Redux" height="25" /></span>
+  &nbsp;
+  <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=E34F26" alt="JavaScript logo" title="JavaScript" height="25" /></span>
   &nbsp;
   <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
   &nbsp;
   <span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
   &nbsp;
+  <span><img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=F05032" alt="Docker logo" title="Docker" height="25" /></span>
+  &nbsp;
   <span><img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="Git logo" title="Git" height="25" /></span>
   &nbsp;
-  <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
+  <span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=F05032" alt="MySQL logo" title="MySQL" height="25" /></span>
   &nbsp;
 
 
