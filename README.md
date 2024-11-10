@@ -17,7 +17,7 @@
   &nbsp;
   <span><img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=#61DAFB" alt="React logo" title="React" height="25" /></span>
   &nbsp;
-  <span><img src="https://img.shields.io/badge/React-282C34?logo=tailwindcss&logoColor=#06B6D4" alt="Tailwind Css logo" title="Tailwind Css" height="25" /></span>
+  <span><img src="https://img.shields.io/badge/TailwindCss-282C34?logo=tailwindcss&logoColor=#06B6D4" alt="Tailwind Css logo" title="Tailwind Css" height="25" /></span>
   &nbsp;
   <span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=#764ABC" alt="Redux logo" title="Redux" height="25" /></span>
   &nbsp;
