@@ -1,7 +1,8 @@
   <!-- peemech -->
 <div>
   <div align="center">
-    <img width="500" src="https://i0.wp.com/37.media.tumblr.com/a2a595327372fbdc050054191e322f64/tumblr_n6sosh5kU01r1r78ao1_r1_1280.gif?resize=541%2C379">
+<!--     <img width="800" src="https://i0.wp.com/37.media.tumblr.com/a2a595327372fbdc050054191e322f64/tumblr_n6sosh5kU01r1r78ao1_r1_1280.gif?resize=541%2C379"> -->
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
   </div>
 
   <h1 align="center">Hi 👋, I'm peemech</h1>
@@ -58,8 +59,8 @@
     <a href="https://www.facebook.com/pmss0168/" style="text-decoration: none;" target="_blank">
       <img width="100" src="https://img.icons8.com/nolan/256/facebook.png" alt="peemech-facebook" />
     </a>
-    <a href="https://www.youtube.com/channel/UCmMGZyNSto7zoFzQtsQU9gg" style="text-decoration: none;" target="_blank">
-      <img width="100" src="https://img.icons8.com/nolan/256/youtube-play.png" alt="peemech-youtube" />
+    <a href="https://www.linkedin.com/in/ph%E1%BA%A1m-minh-s%C3%A1ng-80864228a/" style="text-decoration: none;" target="_blank">
+      <img width="100" src="https://img.icons8.com/?size=100&id=44019&format=png&color=000000" alt="peemech-linkedin" />
     </a>
     <a href="https://www.instagram.com/pmss0168/" style="text-decoration: none;" target="_blank">
       <img width="100" src="https://img.icons8.com/nolan/256/instagram-new.png" alt="peemech-instagram" />
