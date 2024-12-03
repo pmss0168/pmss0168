@@ -10,7 +10,7 @@
   <h2 align="center">🛠 Technologies and Tools 🛠</h2>
   <br>
   <!-- https://simpleicons.org/ -->
-  <span><img src="https://img.shields.io/badge/SpringBoot-282C34?logo=springboot&logoColor=#6DB33F" alt="SpringBoot logo" title="SpringBoot" height="25" /></span>
+<!--   <span><img src="https://img.shields.io/badge/SpringBoot-282C34?logo=springboot&logoColor=#6DB33F" alt="SpringBoot logo" title="SpringBoot" height="25" /></span>
   &nbsp;
   <span><img src="https://img.shields.io/badge/Spring-282C34?logo=spring&logoColor=#6DB33F" alt="Spring logo" title="Spring" height="25" /></span>
   &nbsp;
@@ -33,7 +33,205 @@
   <span><img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=#F05032" alt="Git logo" title="Git" height="25" /></span>
   &nbsp;
   <span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=#4479A1" alt="MySQL logo" title="MySQL" height="25" /></span>
-  &nbsp;
+  &nbsp; -->
+  <p align="left">
+  <!-- Back-end -->
+  <a
+    href="https://www.java.com"
+    style="text-decoration-line: none"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+      alt="java"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://spring.io/" style="text-decoration-line: none" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
+      alt="spring"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
+    href="https://www.mysql.com/"
+    style="text-decoration-line: none"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+      alt="mysql"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
+    href="https://kafka.apache.org/"
+    style="text-decoration-line: none"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg"
+      alt="kafka"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://redis.io" style="text-decoration-line: none" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
+      alt="redis"
+      width="40"
+      height="40"
+    />
+  </a>
+  <!-- Front-end -->
+  <a
+    href="https://www.w3schools.com/css/"
+    style="text-decoration-line: none"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+      alt="css3"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
+    href="https://www.w3.org/html/"
+    style="text-decoration-line: none"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="html5"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    style="text-decoration-line: none"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
+    href="https://www.typescriptlang.org/"
+    style="text-decoration-line: none"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      alt="typescript"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
+    href="https://reactjs.org/"
+    style="text-decoration-line: none"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
+    href="https://tailwindcss.com/"
+    style="text-decoration-line: none"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+      alt="tailwind"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
+    href="https://getbootstrap.com"
+    style="text-decoration-line: none"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+      alt="bootstrap"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
+    href="https://redux.js.org"
+    style="text-decoration-line: none"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
+      alt="redux"
+      width="40"
+      height="40"
+    />
+  </a>
+  <!-- Tools -->
+  <a
+    href="https://www.docker.com/"
+    style="text-decoration-line: none"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+      alt="docker"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
+    href="https://git-scm.com/"
+    style="text-decoration-line: none"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+      alt="git"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://postman.com" style="text-decoration-line: none" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+      alt="postman"
+      width="40"
+      height="40"
+    />
+  </a>
+</p>
 
 
   <br>
@@ -47,6 +245,7 @@
     <a href="#" title="peemech">
       <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=pmss0168&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
+
   </div>
 
 
@@ -56,19 +255,19 @@
   <br>
   <!-- https://icons8.com -->
   <div align="center" style="text-decoration: none;">
-    <a href="https://www.facebook.com/pmss0168/" style="text-decoration: none;" target="_blank">
+    <a href="https://www.facebook.com/pmss0168/" style="text-decoration-line: none" target="_blank">
       <img width="100" src="https://img.icons8.com/nolan/256/facebook.png" alt="peemech-facebook" />
     </a>
     <a href="https://www.linkedin.com/in/ph%E1%BA%A1m-minh-s%C3%A1ng-80864228a/" style="text-decoration: none;" target="_blank">
       <img width="100" src="https://img.icons8.com/?size=100&id=44019&format=png&color=000000" alt="peemech-linkedin" />
     </a>
-    <a href="https://www.instagram.com/pmss0168/" style="text-decoration: none;" target="_blank">
+    <a href="https://www.instagram.com/pmss0168/" style="text-decoration-line: none" target="_blank">
       <img width="100" src="https://img.icons8.com/nolan/256/instagram-new.png" alt="peemech-instagram" />
     </a>
-    <a href="https://discord.gg/ANj8bunzsr" style="text-decoration: none;" target="_blank">
+    <a href="https://discord.gg/ANj8bunzsr" style="text-decoration-line: none" target="_blank">
       <img width="100" src="https://img.icons8.com/nolan/256/discord-logo.png" alt="peemech-discord" />
     </a>
-    <a href="mailto:pmss0168@gmail.com" style="text-decoration: none;" target="_top">
+    <a href="mailto:pmss0168@gmail.com" style="text-decoration-line: none" target="_top">
       <img width="100" src="https://img.icons8.com/nolan/256/new-post.png" alt="peemech-email" />
     </a>
 </div>
